@@ -1,4 +1,4 @@
-## **🎬 Streaming de Vídeos — Spring Boot + JPA**
+## **🎬 Streaming de Vídeos — SpringBoot + JPA**
 
 Projeto acadêmico demonstrando um sistema de Streaming de vídeos com Spring Boot 3, Spring Data JPA e H2 (memória).
 
@@ -31,4 +31,4 @@ Rode a classe StreamingVideoApplication.
 
 **🧩 Diagrama de Classes (UML)**
 
-![img.png](img.png)
+![DiagramaUML-Streaming.png](DiagramaUML-Streaming.png)
